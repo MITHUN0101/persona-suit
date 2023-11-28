@@ -1,0 +1,58 @@
+.elementor-206 .elementor-element.elementor-element-24381d9 {
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding: 0px 0px 0px 0px;
+}
+
+.elementor-206 .elementor-element.elementor-element-afcc50b>.elementor-element-populated {
+    margin: 0px 0px 0px 0px;
+    --e-column-margin-right: 0px;
+    --e-column-margin-left: 0px;
+    padding: 0px 0px 0px 0px;
+}
+
+.elementor-206 .elementor-element.elementor-element-9a01c3d .elementor-tab-title {
+    border-width: 0px;
+}
+
+.elementor-206 .elementor-element.elementor-element-9a01c3d .elementor-tab-content {
+    border-width: 0px;
+    color: #1D1C18;
+    font-family: "Roboto", Sans-serif;
+    font-size: 20px;
+    font-weight: 300;
+    line-height: 30px;
+}
+
+.elementor-206 .elementor-element.elementor-element-9a01c3d .elementor-toggle-item:not(:last-child) {
+    margin-bottom: 12px;
+}
+
+.elementor-206 .elementor-element.elementor-element-9a01c3d .elementor-toggle-title,
+.elementor-206 .elementor-element.elementor-element-9a01c3d .elementor-toggle-icon {
+    color: #000000;
+}
+
+.elementor-206 .elementor-element.elementor-element-9a01c3d .elementor-toggle-icon svg {
+    fill: #000000;
+}
+
+.elementor-206 .elementor-element.elementor-element-9a01c3d .elementor-tab-title.elementor-active a,
+.elementor-206 .elementor-element.elementor-element-9a01c3d .elementor-tab-title.elementor-active .elementor-toggle-icon {
+    color: #000000;
+}
+
+.elementor-206 .elementor-element.elementor-element-9a01c3d .elementor-toggle-title {
+    font-family: "Roboto", Sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 30px;
+}
+
+.elementor-206 .elementor-element.elementor-element-9a01c3d .elementor-toggle-icon.elementor-toggle-icon-left {
+    margin-right: 8px;
+}
+
+.elementor-206 .elementor-element.elementor-element-9a01c3d .elementor-toggle-icon.elementor-toggle-icon-right {
+    margin-left: 8px;
+}
