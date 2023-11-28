@@ -1,7 +1,19 @@
+/* {
+    #c39936
+} */
+body{
+    background-color: #000;
+}
 .elementor-12 .elementor-element.elementor-element-1a7bc59>.elementor-container {
     max-width: 1360px;
 }
+h2,h3{
+    color:#be9233!important;
+}
 
+p{
+    color:#fff;
+}
 .elementor-12 .elementor-element.elementor-element-1a7bc59>.elementor-background-overlay {
     background-color: #000000;
     opacity: 0.5;
@@ -145,7 +157,7 @@
 }
 
 .elementor-12 .elementor-element.elementor-element-4977fb1 .elementor-heading-title {
-    color: #000000;
+    color: #fff;
     font-family: "ChronicleDisplay-LightItalic", Sans-serif;
     font-size: 18px;
     font-weight: 300;
@@ -240,7 +252,7 @@
 }
 
 .elementor-12 .elementor-element.elementor-element-d4a140e .elementor-heading-title {
-    color: #000000;
+    color: #fff;
     font-family: "ChronicleDisplay-LightItalic", Sans-serif;
     font-size: 18px;
     font-weight: 300;
@@ -277,7 +289,7 @@
 
 .elementor-12 .elementor-element.elementor-element-0eb5b09 {
     text-align: center;
-    color: #6A6A6A;
+    color: #fff;
     font-family: "Roboto", Sans-serif;
     font-size: 20px;
     font-weight: 400;
@@ -374,9 +386,9 @@
     font-size: 18px;
     font-weight: 500;
     fill: #000000;
-    color: #000000;
-    background-color: #FFFFFF;
-    border-style: solid;
+    color: #fff;
+    background-color: transparent;
+    border: 1px solid #fff;
     border-width: 1px 1px 1px 1px;
 }
 
@@ -437,9 +449,9 @@
     font-size: 18px;
     font-weight: 500;
     fill: #000000;
-    color: #000000;
-    background-color: #FFFFFF;
-    border-style: solid;
+    color: #fff;
+    background-color: transparent;
+    border: 1px solid #fff;
     border-width: 1px 1px 1px 1px;
 }
 
@@ -460,7 +472,8 @@
 
 .elementor-12 .elementor-element.elementor-element-6584435:not(.elementor-motion-effects-element-type-background),
 .elementor-12 .elementor-element.elementor-element-6584435>.elementor-motion-effects-container>.elementor-motion-effects-layer {
-    background-color: #F1EFE9;
+    /* background-color: #F1EFE9; */
+    background-color: #000;
 }
 
 .elementor-12 .elementor-element.elementor-element-6584435 {
@@ -610,7 +623,7 @@
 }
 
 .elementor-12 .elementor-element.elementor-element-2340331 .elementor-image-box-description {
-    color: #1D1C18;
+    color: #fff;
     font-family: "Roboto", Sans-serif;
     font-size: 20px;
     font-weight: 300;
@@ -650,7 +663,7 @@
 
 .elementor-12 .elementor-element.elementor-element-3e9fdb4 .elementor-image-box-title {
     margin-bottom: 50px;
-    color: #333333;
+    color: #fff;
     font-family: "Roboto", Sans-serif;
     font-size: 30px;
     font-weight: 600;
@@ -658,7 +671,7 @@
 }
 
 .elementor-12 .elementor-element.elementor-element-3e9fdb4 .elementor-image-box-description {
-    color: #1D1C18;
+    color: #fff;
     font-family: "Roboto", Sans-serif;
     font-size: 20px;
     font-weight: 300;
@@ -706,7 +719,7 @@
 }
 
 .elementor-12 .elementor-element.elementor-element-7d750be .elementor-image-box-description {
-    color: #1D1C18;
+    color: #fff;
     font-family: "Roboto", Sans-serif;
     font-size: 20px;
     font-weight: 300;
@@ -802,7 +815,7 @@
 
 .elementor-12 .elementor-element.elementor-element-86d4175 {
     text-align: center;
-    color: #6A6A6A;
+    color: #fff;
     font-family: "Roboto", Sans-serif;
     font-size: 20px;
     font-weight: 400;
@@ -842,9 +855,9 @@
     font-size: 18px;
     font-weight: 500;
     fill: #000000;
-    color: #000000;
-    background-color: #FFFFFF;
-    border-style: solid;
+    color: #fff;
+    background-color: transparent;
+    border: 1px solid #fff;
     border-width: 1px 1px 1px 1px;
 }
 
@@ -903,9 +916,9 @@
     font-size: 18px;
     font-weight: 500;
     fill: #000000;
-    color: #000000;
-    background-color: #FFFFFF;
-    border-style: solid;
+    color: #fff;
+    background-color: transparent;
+    border:1px solid #fff;
     border-width: 1px 1px 1px 1px;
 }
 
@@ -1232,7 +1245,7 @@
 }
 
 .elementor-12 .elementor-element.elementor-element-3b1e4fd .elementor-heading-title {
-    color: #000000;
+    color: #fff;
     font-family: "ChronicleDisplay-LightItalic", Sans-serif;
     font-size: 18px;
     font-weight: 300;
@@ -1412,7 +1425,8 @@
 
 .elementor-12 .elementor-element.elementor-element-e904198:not(.elementor-motion-effects-element-type-background)>.elementor-widget-wrap,
 .elementor-12 .elementor-element.elementor-element-e904198>.elementor-widget-wrap>.elementor-motion-effects-container>.elementor-motion-effects-layer {
-    background-color: #F1EFE9;
+    /* background-color: #F1EFE9; */
+    background-color: #000;
 }
 
 .elementor-12 .elementor-element.elementor-element-e904198>.elementor-element-populated {
@@ -1428,7 +1442,7 @@
 }
 
 .elementor-12 .elementor-element.elementor-element-1a990f9 .elementor-heading-title {
-    color: #000000;
+    color: #fff;
     font-family: "ChronicleDisplay-LightItalic", Sans-serif;
     font-size: 18px;
     font-weight: 300;
@@ -1482,9 +1496,9 @@
     font-size: 18px;
     font-weight: 500;
     fill: #000000;
-    color: #000000;
-    background-color: #FFFFFF00;
-    border-style: solid;
+    color: #fff;
+    background-color: transparent;
+    border: 1px solid #fff;
     border-width: 1px 1px 1px 1px;
 }
 
@@ -1579,7 +1593,7 @@
 }
 
 .elementor-12 .elementor-element.elementor-element-dc34706 .elementor-heading-title {
-    color: #000000;
+    color: #fff;
     font-family: "ChronicleDisplay-LightItalic", Sans-serif;
     font-size: 18px;
     font-weight: 300;
@@ -1842,7 +1856,7 @@
 
 .elementor-12 .elementor-element.elementor-element-2f8c8ac:not(.elementor-motion-effects-element-type-background),
 .elementor-12 .elementor-element.elementor-element-2f8c8ac>.elementor-motion-effects-container>.elementor-motion-effects-layer {
-    background-color: #F1EFE9;
+    /* background-color: #F1EFE9; */
 }
 
 .elementor-12 .elementor-element.elementor-element-2f8c8ac {
@@ -1877,7 +1891,7 @@
 }
 
 .elementor-12 .elementor-element.elementor-element-83bec09 .elementor-heading-title {
-    color: #000000;
+    color: #fff;
     font-family: "ChronicleDisplay-LightItalic", Sans-serif;
     font-size: 18px;
     font-weight: 300;
@@ -2389,7 +2403,7 @@
 }
 
 .elementor-12 .elementor-element.elementor-element-ee3fcf2 .elementor-heading-title {
-    color: #000000;
+    color: #fff;
     font-family: "ChronicleDisplay-LightItalic", Sans-serif;
     font-size: 18px;
     font-weight: 300;
@@ -2443,7 +2457,7 @@
     font-size: 18px;
     font-weight: 500;
     fill: #000000;
-    color: #000000;
+    /* color: #000000; */
     background-color: #FFFFFF00;
     border-style: solid;
     border-width: 1px 1px 1px 1px;
@@ -2620,7 +2634,7 @@
 
 .elementor-12 .elementor-element.elementor-element-c9d0220 {
     text-align: left;
-    color: #1D1C18;
+    color: #fff;
     font-family: "Roboto", Sans-serif;
     font-size: 20px;
     font-weight: 300;
@@ -3450,6 +3464,38 @@
     left:50%;
     transform: translate(-50%,-50%);
     height:100%;
+}
+.form_sec_montahi form.elementor-form .elementor-form-fields-wrapper>.elementor-column.elementor-field-type-radio label.elementor-field-label {
+    color: #fff;
+}
+.elementor-widget-form .elementor-field-group > label, .elementor-widget-form .elementor-field-subgroup label {
+    color:#fff;
+}
+
+.map-content-left .contact-details p.elementor-icon-box-description a {
+    font-size: 20px !important;
+    line-height: 150% !important;
+    color: #fff;
+    font-family: 'GraphikRegular' !important;
+}
+
+.map-content-left .contact-details .elementor-icon-box-content h3.elementor-icon-box-title a {
+    font-family: 'ChronicleDisplay-SemiBold' !important;
+    font-size: 30px !important;
+    display: block;
+    margin: 0 0 15px;
+    color: #fff;
+    line-height: 110%;
+}
+.map-content-left .contact-details p.elementor-icon-box-description {
+    font-size: 20px !important;
+    line-height: 150% !important;
+    color: #fff!important;
+    font-family: 'GraphikRegular' !important;
+}
+.elementor-nav-menu--layout-horizontal .elementor-nav-menu>li {
+    display: flex;
+    padding: 0 1rem;
 }
 /*=======================Own Css New End==============================*/
 
