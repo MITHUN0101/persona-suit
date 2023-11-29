@@ -3529,8 +3529,29 @@ section.darkHeader>.elementor-container.elementor-column-gap-default a.elementor
 .elementor-114 .elementor-element.elementor-element-3128738 img {
     width: 50%!important;
 }
+.book-button {
+    width: 10% !important;
+}
 
-
+.elementor-83 .elementor-element.elementor-element-570e03d {
+    width: 14%;
+}
+.book-button {
+    width: 10% !important;
+}
+.main-menu-top {
+    width: 80% !important;
+}
+.elementor-nav-menu--layout-horizontal .elementor-nav-menu>li {
+    display: flex;
+    padding: 0 7px;
+}
+.elementor-202 .elementor-element.elementor-element-efa24af .elementor-field-group .elementor-select-wrapper select {
+    background-color: transparent!important;
+}
+.elementor-202 .elementor-element.elementor-element-efa24af .elementor-field-group:not(.elementor-field-type-upload) .elementor-field:not(.elementor-select-wrapper) {
+    background-color: transparent!important;
+}
 
 @media(max-width:992px){
     .elementor-widget-wrap.elementor-element-populated{
